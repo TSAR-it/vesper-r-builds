@@ -8,7 +8,7 @@
 
 Доступные сборки предназначены для **Linux x86-64**. Распакуйте архив целиком и запустите `./VesperR.x86_64`. Справка по управлению открывается по **F10** или удержанием **Y** на геймпаде.
 
-**В планах** — расширенная поддержка аэродинамики с прижимной силой и балансом по осям.
+**В планах** — поддержка электрических, дизельных и гибридных силовых установок, моделирование бортовой электроники с питанием от аккумулятора и расширение аэродинамики с прижимной силой и балансом по осям.
 
 ---
 
@@ -18,4 +18,4 @@ A playable rear-wheel-drive supercar showcase. **Alder Valley** is the open road
 
 The builds target **Linux x86-64**. Extract the complete archive and run `./VesperR.x86_64`. Press **F10** or hold **Y** on a gamepad to open the controls guide.
 
-**Roadmap** — expanded aerodynamics with downforce and front/rear aero balance.
+**Roadmap** — support for electric, diesel, and hybrid powertrains, simulation of battery-powered vehicle electronics, and expanded aerodynamics with downforce and front/rear aero balance.
